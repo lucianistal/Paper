@@ -1,6 +1,6 @@
-# Hi, I'm Lucía 
+# Hello, I am Lucía 
 
- Computer Engineering student @ Istanbul Aydin University  
+ Computer Engineering student  Istanbul Aydin University  
  Specializing in **Computer Vision** and **Data Science**  
  International experience: Erasmus (Turkey) + USA
 
